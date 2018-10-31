@@ -13,6 +13,7 @@
    <plugin>
     <groupId>org.phpmaven</groupId>
     <artifactId>maven-php-plugin</artifactId>
+    <version>3.0</version>
     <extensions>true</extensions>
    </plugin>
 
